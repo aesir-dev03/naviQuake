@@ -1,0 +1,1 @@
+{"nodes":{"node1":{"id":"node1","lat":7.4204,"lng":125.8266,"connected":["node2","node3"],"type":"primary"},"node2":{"id":"node2","lat":7.4200,"lng":125.8269,"connected":["node1","node4"],"type":"primary"}}}
