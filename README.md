@@ -1,6 +1,5 @@
-# naviquake
-
-A new Flutter project.
+# NaviQuake
+An earthquake alert system based on using IoT devices to ensure the safety of navigation during an earthquake occurences.
 
 ## Getting Started
 
